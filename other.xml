@@ -1,0 +1,39 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6392694" />
+    <property name="DART_CHECK_SDK_UPDATE_KEY" value="DoNotCheck" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="FLUTTER_COMPANY_DOMAIN" value="totorneio.github.io" />
+    <property name="FLUTTER_PROJECT_KOTLIN_SUPPORT" value="true" />
+    <property name="FLUTTER_PROJECT_SWIFT_SUPPORT" value="true" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="$USER_HOME$/Applications/flutter" />
+    <property name="KEYMAP" value="save" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SettingsSearchHistory" value="key&#10;surround&#10;lu&#10;flutter&#10;camelhump" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.6023965" />
+    <property name="TrendingPluginsSearchHistory" value="material&#10;flutter" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Applications/flutter" />
+    <property name="file.gist.reindex.count" value="9" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="io.flutter.analytics.clientId" value="db57c674-d5fc-423e-90b8-0caa00054ee2" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.editor.showBuildMethodsOnScrollbarKey" value="true" />
+    <property name="io.flutter.editor.showMultipleChildrenGuides" value="true" />
+    <property name="io.flutter.formatCodeOnSave" value="true" />
+    <property name="io.flutter.openInspectorOnAppLaunch" value="true" />
+    <property name="io.flutter.organizeImportsOnSave" value="true" />
+    <property name="io.flutter.reloadWithError" value="true" />
+    <property name="io.flutter.verboseLogging" value="true" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="lastTip" value="4" />
+    <property name="newly.installed.api.level" value="27" />
+    <property name="studio.activity.count" value="3" />
+  </component>
+</application>
